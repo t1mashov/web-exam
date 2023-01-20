@@ -1,0 +1,17 @@
+{
+    "global_id":637376221,
+    "ID":"00151635",
+    "Name":"СМЕТАНА",
+    "IsNetObject":"нет",
+    "OperatingCompany":"",
+    "TypeObject":"кафе",
+    "AdmArea":"Северо-Восточный административный округ",
+    "District":"Ярославский район",
+    "Address":"город Москва, улица Егора Абакумова, дом 9",
+    "PublicPhone":[{"PublicPhone":"(499) 183-14-10"}],
+    "SeatsCount":48,
+    "SocialPrivileges":"нет",
+    "Longitude_WGS84":"37.7145650004360390",
+    "Latitude_WGS84":"55.8790015313033730",
+    "geoData":{"coordinates":[37.714565000436,55.8790015313034],"type":"Point"}
+}
